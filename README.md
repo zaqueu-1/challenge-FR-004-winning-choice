@@ -10,7 +10,7 @@ Tudo certo por enquanto!
 https://challenge-fr-004-winning-choice.vercel.app/
 
 ## 🖼️ Demonstração
-![demo](https://github.com/zaqueu-1/challenge-FR-004-winning-choice/blob/main/github/demo.jpeg)
+![demo](https://github.com/zaqueu-1/challenge-FR-004-winning-choice/blob/main/github/demo.png)
 
 ## ✍️ Sobre o autor
 Desenvolvedor front-end, 27 anos, Rio de Janeiro/RJ
